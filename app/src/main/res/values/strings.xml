@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ReciclaApp</string>
+    <string name="titulo1">APP AMBIENTAL</string>
+    <string name="titulo2">siguiente</string>
+    <string name="titulo3">MENU</string>
+    <string name="titulo4">RECICLA YA</string>
+    <string name="titulo5">Botellas y botes de vidrio (zumos, refrescos, vinos, licores, sidras, salsas, aceite, etc.). Tarros y frascos de vidrio (tanto de bebidas y alimentos en conserva, como de perfumes, colonias, etc.).</string>
+    <string name="titulo6">Color negro: Para depositar residuos no aprovechables como el papel higiénico; servilletas, papeles y cartones contaminados con comida; papeles metalizados, entre otros.</string>
+    <string name="titulo7">Deposita en el contenedor de color blanco: *Residuos aprovechables, limpios y secos. Desechables de plásticos. Vidrio.</string>
+    <string name="titulo8">TIPOS</string>
+    <string name="titulo9">Reciclaje de carton</string>
+    <string name="titulo10">Reciclaje de vidrio</string>
+    <string name="titulo11">Reciclaje de objetos no reciclables</string>
+    <string name="titulo12">METODOS</string>
+    <string name="titulo13">Reciclaje de baterias y pilas</string>
+    <string name="titulo14">Reciclaje de aluminio</string>
+    <string name="titulo15">Reciclaje del textil y calzado</string>
+
+</resources>
